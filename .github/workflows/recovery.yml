@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
   DEVICE: ysl
-  DT_LINK: https://github.com/moonwaybot/device_xiaomi_ysl_twrp
+  DT_LINK: https://github.com/adamayyad/ysl-twrp
   DT_PATH: device/xiaomi/ysl
   KERNEL_LINK: https://github.com/Fox-kernel/Fox_kernel_ysl_4.9
   KERNEL_PATH: kernel/xiaomi/msm8953
