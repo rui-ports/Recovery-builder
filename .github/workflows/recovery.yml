@@ -18,7 +18,7 @@ env:
   DEVICE: ysl
   DT_LINK: https://github.com/adamayyad/ysl-twrp
   DT_PATH: device/xiaomi/ysl
-  KERNEL_LINK: https://github.com/Fox-kernel/Fox_kernel_ysl_4.9
+  KERNEL_LINK: https://github.com/qrovic/Fox_kernel_ysl_4.9
   KERNEL_PATH: kernel/xiaomi/msm8953
   TARGET: recoveryimage
   TZ: Asia/Kolkata
